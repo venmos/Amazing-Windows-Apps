@@ -4,7 +4,7 @@
 
 ---
 
-### [aria2](https://aria2.github.io/) ![](/photo/图片2.png)![](/photo/open-source-icon.png)![](/photo/united-states.png)![](/photo/usb.png)![](/photo/multi_platform.png)
+### [aria2](https://aria2.github.io/) ![](/photo/图片2.png) ![](/photo/open-source-icon.png) ![](/photo/united-states.png) ![](/photo/usb.png) ![](/photo/multi_platform.png)
 
 轻量级多协议支持、多镜像、跨平台下载工具，使用命令行操作。支持HTTP/HTTPS、FTP、SFTP、BT与磁链
 
